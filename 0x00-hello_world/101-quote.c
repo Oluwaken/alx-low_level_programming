@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - A C program that prints a line to the standard error
+ * main - Entry point
+ *
  * Return: Always i (Success)
  */
 int main(void)
